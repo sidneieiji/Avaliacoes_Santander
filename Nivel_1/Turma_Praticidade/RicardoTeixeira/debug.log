@@ -1,0 +1,8 @@
+[0226/155847.546:ERROR:crashpad_client_win.cc(454)] CreateProcess: Espaço insuficiente de armazenamento para processar este comando. (0x8)
+[0227/083843.297:ERROR:process_reader_win.cc(114)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido.  (0xc0000022)
+[0227/083843.297:ERROR:exception_snapshot_win.cc(87)] thread ID 8264 not found in process
+[0227/083843.297:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0227/084642.979:ERROR:process_reader_win.cc(142)] SuspendThread: Acesso negado. (0x5)
+[0227/084642.979:ERROR:process_reader_win.cc(114)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido.  (0xc0000022)
+[0227/084642.979:ERROR:exception_snapshot_win.cc(87)] thread ID 212 not found in process
+[0227/084642.979:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
