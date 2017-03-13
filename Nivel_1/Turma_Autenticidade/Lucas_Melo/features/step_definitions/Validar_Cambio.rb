@@ -28,9 +28,9 @@ end
 
 Então(/^o teste será aprovado$/) do
   if @value_cot < @valid_value
-    puts true
-  else
     puts false
+  else
+    puts true
   end
 end
 

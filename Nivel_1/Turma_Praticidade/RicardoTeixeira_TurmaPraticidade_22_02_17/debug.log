@@ -1,0 +1,17 @@
+[0226/155847.546:ERROR:crashpad_client_win.cc(454)] CreateProcess: Espaço insuficiente de armazenamento para processar este comando. (0x8)
+[0227/083843.297:ERROR:process_reader_win.cc(114)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido.  (0xc0000022)
+[0227/083843.297:ERROR:exception_snapshot_win.cc(87)] thread ID 8264 not found in process
+[0227/083843.297:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0227/084642.979:ERROR:process_reader_win.cc(142)] SuspendThread: Acesso negado. (0x5)
+[0227/084642.979:ERROR:process_reader_win.cc(114)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido.  (0xc0000022)
+[0227/084642.979:ERROR:exception_snapshot_win.cc(87)] thread ID 212 not found in process
+[0227/084642.979:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0302/223239.010:ERROR:process_info.cc(608)] range at 0xf5d5392400000000, size 0x24e fully unreadable
+[0302/223239.011:ERROR:process_info.cc(608)] range at 0xf5d5398a00000000, size 0x24e fully unreadable
+[0302/223239.011:ERROR:process_info.cc(608)] range at 0x0, size 0x24e fully unreadable
+[0302/223239.027:WARNING:in_range_cast.h(38)] value 2538155087808 out of range
+[0302/223239.027:WARNING:in_range_cast.h(38)] value 2538155085664 out of range
+[0302/223239.027:WARNING:in_range_cast.h(38)] value 2538155086898 out of range
+[0302/223239.027:WARNING:in_range_cast.h(38)] value 2538155086950 out of range
+[0302/223239.027:WARNING:in_range_cast.h(38)] value 2538155085506 out of range
+[0302/223239.099:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: Tentou-se acessar um processo de saída.  (0xc000010a)

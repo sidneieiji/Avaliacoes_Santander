@@ -1,0 +1,6 @@
+[0307/170004.763:ERROR:process_info.cc(330)] VirtualQueryEx: Acesso negado. (0x5)
+[0307/170004.765:ERROR:process_info.cc(547)] ReadMemoryInfo failed
+[0307/170004.771:ERROR:process_reader_win.cc(142)] SuspendThread: Acesso negado. (0x5)
+[0307/170004.771:ERROR:exception_snapshot_win.cc(87)] thread ID 6796 not found in process
+[0307/170004.771:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0307/170004.771:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: Tentou-se acessar um processo de saída.  (0xc000010a)
